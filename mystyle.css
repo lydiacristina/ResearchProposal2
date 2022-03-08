@@ -39,6 +39,12 @@ H1, H2 {
   color: #6495ED;
   font-family: Tahoma, Helvetica, sans-serif;
 }
+H3 {
+  text-align: justify;
+  color: #6495ED;
+  font-family: Tahoma, Helvetica, sans-serif;
+}
+
 
 /* Slideshow container */
 .slideshow-container {
