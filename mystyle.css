@@ -35,6 +35,12 @@ body {
 
 * {box-sizing:border-box}
 
+h1 {
+  text-align: center;
+  color: #6495ED;
+  font-family: Tahoma, Helvetica, sans-serif;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
