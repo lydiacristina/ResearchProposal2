@@ -33,7 +33,7 @@ body {
 }
 
 * {box-sizing:border-box}
-
+      /* gen text styling edits*/
 H1, H2 {
   text-align: center;
   color: #6495ED;
@@ -44,10 +44,17 @@ H3 {
   color: #6495ED;
   font-family: Tahoma, Helvetica, sans-serif;
 }
+      /* about page edits*/
 p {
   text-align: left;
   color: #6495ED;
   font-family: Tahoma, Helvetica, sans-serif;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /* Slideshow container */
