@@ -1,7 +1,6 @@
 /* General Page Edits*/
 body {
   background: #E6E6FA;
-  font-family: Tahoma, Helvetica, sans-serif;
 }
 
 /* Navigation bar */
@@ -35,7 +34,7 @@ body {
 
 * {box-sizing:border-box}
 
-h1 {
+H1 {
   text-align: center;
   color: #6495ED;
   font-family: Tahoma, Helvetica, sans-serif;
