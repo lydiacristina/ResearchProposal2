@@ -60,6 +60,12 @@ p, ul {
 ul.ba {
     list-style-type: none;
 }
+ul li {
+ text-align: left;
+  color: #6495ED;
+  font-family: Tahoma, Helvetica, sans-serif;
+  margin: 5px;
+}
 
 /* Slideshow container */
 .slideshow-container {
