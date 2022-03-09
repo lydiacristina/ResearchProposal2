@@ -56,6 +56,10 @@ p {
   margin-right: auto;
   width: 50%;
 }
+/*Source page list edit*/
+ul.ba {
+    list-style-type: none;
+}
 
 /* Slideshow container */
 .slideshow-container {
