@@ -60,7 +60,7 @@ p, ul {
 ul.ba {
     list-style-type: none;
 }
-ul li {
+ul.ba li {
  text-align: left;
   color: #6495ED;
   font-family: Tahoma, Helvetica, sans-serif;
