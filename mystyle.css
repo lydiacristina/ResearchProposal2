@@ -45,7 +45,7 @@ H3 {
   font-family: Tahoma, Helvetica, sans-serif;
 }
       /* about page edits*/
-p {
+p, ul {
   text-align: left;
   color: #6495ED;
   font-family: Tahoma, Helvetica, sans-serif;
@@ -59,9 +59,6 @@ p {
 /*Source page list edit*/
 ul.ba {
     list-style-type: none;
-  text-align: left;
-  color: #6495ED;
-  font-family: Tahoma, Helvetica, sans-serif;
 }
 
 /* Slideshow container */
